@@ -1,0 +1,32 @@
+.dev{
+    border-style: solid dotted dashed groove; border-color: red; border-width: 10px;
+}
+.he{
+    border-style: dotted;
+}
+.ga{
+    border-style: dashed;
+}
+.ma{
+    border-style: double;
+}
+.hi{
+    border-style: ridge;
+}
+.ha{
+    border-style: groove;
+}
+.ro{
+    border-style: inset;
+}
+.ji{
+    border-style: outset;
+}
+.di{
+    background: transparent;
+    border: 100px;
+    border-top: 100px solid transparent;
+    border-right: 100px solid  transparent;
+    border-bottom: 120px solid blue ;
+    border-left: 100px solid  transparent;
+}

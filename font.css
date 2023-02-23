@@ -1,0 +1,23 @@
+div {
+    background: goldenrod;
+    height: 200px;
+    width: 200px;
+    box-shadow: 10px 10px 10px red;
+}
+
+.a {
+    font-weight: bold;
+}
+
+.b {
+    font-style: italic;
+}
+
+.c {
+    /* text-decoration: underline; */
+    text-transform: uppercase;
+}
+
+.diV {
+    text-transform: lowercase;
+}
